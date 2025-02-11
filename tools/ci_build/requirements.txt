@@ -2,6 +2,6 @@
 protobuf==3.17.0
 numpy==1.21.0
 coloredlogs==15.0
-transformers==4.6.1
+transformers==4.48.0
 onnxconverter-common==1.8.1
 psutil
