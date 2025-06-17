@@ -1,2 +1,2 @@
-torch==1.10.0
+torch==2.7.1
 setuptools>=41.4.0
