@@ -1,7 +1,7 @@
 # transformers requires sklearn
 --pre
 -f https://download.pytorch.org/whl/rocm4.2/torch_stable.html
-torch==1.10.0
+torch==2.9.1
 pandas
 sklearn
 numpy==1.21.0
